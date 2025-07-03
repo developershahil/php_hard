@@ -4,7 +4,6 @@ This repository contains a collection of basic-level PHP project files for learn
 
 ## Contents
 
-> *(The contents below assume common files found in beginner PHP practice projects. Adjust according to actual contents when extracted)*
 
 - `blog_form.php` – A basic HTML form to post a blog (with title and content).
 - `form_handler.php` – A PHP script to handle form submissions via POST.
